@@ -1,0 +1,19 @@
+A multinational company Northwind  has their 9 offshore developement centers .
+They are all over the world.
+They required to build and host portal for their employees to access information.
+company  wanted to build this information system in public cloud Google cloud .
+or company also wanted to builkd and host this information system in AWS.
+
+
+Functional Requirements:
+1)Customer able to view.
+2) Customer able to add.
+3) Customer able to delete.
+4)Customer able to Update.
+5)Customer able to delete.
+
+Non-Functional Requirements:
+1)Scalable
+2)Extensible
+3)Secured.
+4)High erformance.
